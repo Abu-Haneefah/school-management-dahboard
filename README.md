@@ -8,7 +8,7 @@
 A comprehensive school management dashboard built with **Next.js**, **TailwindCSS**, and UI components.  
 Visualize student data, manage classes, attendance, and more — all in a sleek, responsive interface.
 
-🔗 **Live Demo:** [school-management-dashboard](https://school-management-dahboard-7n9m-8j52hzftt.vercel.app/)
+🔗 **Live Demo:** [school-management-dashboard](https://school-management-dahboard-3n3wojjq9-abu-haneefah-s-projects.vercel.app/list/exams?_vercel_share=wkPlg9t0VBzzn5ZpYSd9JR1QChtMn52h)
 
 ---
 
