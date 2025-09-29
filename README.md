@@ -40,7 +40,7 @@ Visualize student data, manage classes, attendance, and more — all in a sleek,
 **Dashboard Overview**  
 ![Landing Page](./Images//school_landing.PNG)
 
-![Admin Dashboard Overview](./Images//school_admin.PNGschool_admin.PNG)
+![Admin Dashboard Overview](./Images/school_admin.PNG)
 
 **Student / Class List Page**  
 ![Student Dashboard Landing Page](./Images/school_student.PNG)
